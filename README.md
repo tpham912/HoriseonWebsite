@@ -1,5 +1,5 @@
 # Horiseon Website
-Refactoring existing code to meet a certain set of standards or to implement a new changes to make it more accessible for everyone. 
+Refactoring existing code to meet a certain set of standards or to implement new changes to make it more accessible for everyone. 
 
 # URL
 GitHub repo URL: https://github.com/tpham912/HoriseonWebsite
